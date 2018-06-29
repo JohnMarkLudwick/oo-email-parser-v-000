@@ -4,7 +4,11 @@
 # or whitespace (' ').
 
 
-
+class EmailParser
+  
+  
+  
+  
 
 
 
