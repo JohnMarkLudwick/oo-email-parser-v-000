@@ -9,12 +9,12 @@ class EmailParser
   attr_accessor :name, :emails
   
   def initialize(csv_emails)
-    @csv_emails = csv_emails
+    @emails = emails
     
   end
   
   def parse
-    @csv_emails.split.collect
+    @emails.split.collect
   
   end
   
