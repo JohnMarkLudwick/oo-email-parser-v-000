@@ -19,7 +19,6 @@ class EmailParser
   end
   
   
-  
 end
   
   
