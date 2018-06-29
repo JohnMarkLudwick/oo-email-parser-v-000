@@ -6,9 +6,12 @@
 
 class EmailParser
   
-  attr_accessor :emails
+  attr_accessor :name, :emails
   
   emails = []
+  
+  
+  
   
 end
   
