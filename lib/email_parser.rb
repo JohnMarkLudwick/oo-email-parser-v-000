@@ -14,7 +14,7 @@ class EmailParser
   end
   
   def parse(csv_emails)
-    
+    csv_emails.split
   
   end
   
