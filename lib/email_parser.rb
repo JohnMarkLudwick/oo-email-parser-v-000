@@ -13,8 +13,7 @@ class EmailParser
     
   end
   
-  def name(new_name)
-    @new_name = new_name
+  def parse(csv_emails)
   end
   
   
